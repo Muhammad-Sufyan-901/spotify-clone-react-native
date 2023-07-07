@@ -1,0 +1,1 @@
+export const premiumAdvantagesList: string[] = ["Dengarkan secara offline tanpa Wi-Fi atau data seluler", "Putar lagu dalam urutan apa pun", "Mendengarkan musik bebas iklan", "Kualitas suara lebih tinggi"];
